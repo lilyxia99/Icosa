@@ -10,3 +10,6 @@ title: Icosa Magazine
 Icosa Magazine is an independent research & independent publication group that brings together a group of artists and researchers concerned with math and art. Each project is a collective research or creation that takes a period of time to do, and then the research and creation is shared with a wider audience through publications. Topics of research and related publications range from Escher and mosaics, the French literary group Oulipo, the Whole earth Catalog and the hippy movement, touch, poker dice gaming systems, and material games ...... Each project ranges from 10 to 100 participants, depending on the specificity of the topic. Most of the collaborations are online, we choose the right collaboration platform according to the topic, and this research and creation is as open source as possible respecting the wishes of each participant and his process is visible.
 
 We want to promote an alternative way of knowledge generation, and a research and creation environment based on trust and encouragement rather than evaluation and competition.
+
+## 出版物 Publications
+🌟[[3   In Spring the Wind Passing By Plays the Harmonica For Me - 25 games from the ARTIFICIAL NATURE Game Jam]]
