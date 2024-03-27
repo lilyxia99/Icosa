@@ -12,4 +12,8 @@ Icosa Magazine is an independent research & independent publication group that b
 We want to promote an alternative way of knowledge generation, and a research and creation environment based on trust and encouragement rather than evaluation and competition.
 
 ## 出版物 Publications
+🌟[[1  Map is not the territory - echoes from the 1960s]]
+🌟[[2  Tactile Communications — from analog to digital]]
 🌟[[3   In Spring the Wind Passing By Plays the Harmonica For Me - 25 games from the ARTIFICIAL NATURE Game Jam]]
+🌟[[4  M.C. Escher and visual math magic]]
+🌟[[5 Oulipo and generative literature]]
