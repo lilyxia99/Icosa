@@ -1,5 +1,5 @@
 ---
-title: Icosa Magazine
+title: The Start of Your Journey
 ---
 ![[Pasted image 20240326174437.png]]
 
