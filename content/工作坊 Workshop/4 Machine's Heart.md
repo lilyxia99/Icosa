@@ -1,12 +1,20 @@
+---
+title: Machine's Heart
+---
+
+
 Related Publication:  [[6 AI Assisted Filmmaking — low cost DIY guideline | AI Assisted Filmmaking - low cost DIY guidline]]
 
-Ling's Fifth Time-Limited Image Creation Game
+## Ling's Fifth Time-Limited Image Creation Game
 
-Theme: The Heart of the Machine
+### Theme 
+The Heart of the Machine
 
-Participants: Xia Leilei, Liko, Jingwei, Haixin, He Shan, Zhang Jiuwo, Tony Yet
+### Participants
+Xia Leilei, Liko, Jingwei, Haixin, He Shan, Zhang Jiuwo, Tony Yet
 
-Time: January 6-27, 2023
+### Time
+January 6-27, 2023
 
 Ling is a small group of amateurs engaged in video creation and learning, located in an offline space inside the Huangpu Shipyard on Changzhou Island, Guangzhou. It is also the location of the Icosa Magazine Reading Room.
 
@@ -24,13 +32,16 @@ During the 21-day workshop, a total of 10 short films were produced. They can be
 
 https://app.milanote.com/1PcWnP1jLyfl8P?p=Z9KDAvnL1tx
 
-Ling的第五次限时影像创作游戏
+## Ling的第五次限时影像创作游戏
 
-主题：机器之心
+### 主题
+机器之心
 
-参与者：夏磊蕾、立刻、经纬、海辛、何珊、张久我、Tony Yet
+### 参与者
+夏磊蕾、立刻、经纬、海辛、何珊、张久我、Tony Yet
 
-时间：2023年1月6日-27日
+### 时间
+2023年1月6日-27日
 
 Ling 是一群由业余者构成的影视创作和学习小组，一个位于广州市长洲岛黄埔造船厂内的线下空间。也是二十面体阅览室所在地。
 

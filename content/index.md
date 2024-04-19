@@ -24,10 +24,10 @@ We want to promote an alternative way of knowledge generation, and a research an
 
 ## Workshop 
 
-🌲[[Returning to the WEC]]
+🌲[[1 Returning to the WEC]]
 
-🌲[[Touching and Imagining]]
+🌲[[2 Touching and Imagining]]
 
-🌲[[Artificial Nature Game Jam]]
+🌲[[3 Artificial Nature Game Jam]]
 
-🌲[[Machine's Heart]]
+🌲[[4 Machine's Heart]]

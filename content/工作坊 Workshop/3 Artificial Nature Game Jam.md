@@ -1,6 +1,10 @@
+---
+title: Artificial Nature Game Jam
+---
+
 Related Publication : [[3   In Spring the Wind Passing By Plays the Harmonica For Me - 25 games from the ARTIFICIAL NATURE Game Jam|In Spring the Wind Passing By Plays the Harmonica For Me - 25 games from the ARTIFICIAL NATURE Game Jam]]
 
-Rules:
+## Rules
 
 Participants, either individually or in teams, will create a game based on the theme "Artificial Nature" within two weeks from March 23 to April 5, 2023.
 
@@ -18,17 +22,23 @@ This event is jointly initiated by Icosa Magazine, Sunset Interval, and A4AB. Th
 
 A total of 60 works were created in this Game Jam, all of which can be played and experienced at https://itch.io/jam/artificial-nature.
 
-规则：
+## 规则
 
 参与者独自或组队，在2023年3月23日-4月5日两周时间内围绕在“人工自然”的主题创作一款游戏。
 
 *游戏指电子游戏、桌游、互动故事 / 影像 / 表演 / 装置、身体游戏、等等。
 
-Game Jam页面：https://itch.io/jam/artificial-nature
+### Game Jam页面 
 
-工作坊线上场地：灵感买家俱乐部 - 野乌咖啡厅
+https://itch.io/jam/artificial-nature
 
-工作坊共同调研页面：https://app.milanote.com/1PEsm61VUgkr21?p=E5Uib8Z4TXo
+### 工作坊线上场地
+
+灵感买家俱乐部 - 野乌咖啡厅
+
+### 工作坊共同调研页面
+
+https://app.milanote.com/1PEsm61VUgkr21?p=E5Uib8Z4TXo
 
 限时游戏开发挑战（Game Jam）是一种深深植根于独立游戏社群的先锋创作活动，但同时也是许多游戏制作者接触游戏制作的最初起点。Game Jam 活动发展的二十多年来，为众多人群开放，并在全世界各地生根发芽，创造出紧密连接的社群。我们不那么局限在独立游戏的语境下，去打开更为广阔的游戏想象，找到在开放与封闭，广度与深度，研究思考与即兴创作，以及作为新媒体的电子游戏与不那么年轻的「当代艺术」之间的微妙平衡。
 

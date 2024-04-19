@@ -11,3 +11,81 @@ Half a century ago, when computer animation first started to emerge, it would ta
 to purchase, please scan the following QR code
 
 ![[Pasted image 20240326234122.png]]
+
+这是一本关于AI用于个人影视创作的工具介绍的简易手册，包括前期的剧本构思，到后期的视觉效果处理，还有相关课程和其他资源。它来源于“**机器之心**”限时影视创作工作坊，在书的最后可以看到这些片子和他们使用的技术。前言是因技术应用带来的伦理挑战；书中重印了电影评论家 Gene Youngblood 写于80年代初关于计算机在电影创作方面的评论文章，以及图论学家 Claude Berge 写于60年代的关于组合文学之潜在可能性的探讨。
+
+**工具**
+
+CATALOG-TOOLS
+
+1. chaGPT
+
+2. Stable Diffusion
+
+3. Midjourney
+
+4. DALL-E
+
+5. Lexica
+
+6. Deforum
+
+7. Dramatron
+
+8. Runway
+
+9. Ebsynth
+
+10. ELIZA
+
+11. 虚拟人
+
+12. Character.AI
+
+13. HuggingFace
+
+14. GPU 租用
+
+15. langchain
+
+16. gpt index
+
+17. 写提示语(Prompting)技巧
+
+**作品**
+
+CATALOG-WORKS
+
+1. 走进神经网络
+
+2. 计算机动画简史 
+
+(1964年 - 1982年)
+
+3. 迷幻之梦
+
+4. 分形梦
+
+**图书**
+
+CATALOG-BOOKS
+
+1. 机器学习时代的艺术
+
+2. 像素传
+
+3. 动画场景分析
+
+4. 计算机动画简史
+
+5. 基于 Transformer 的语言处理
+
+**课程**
+
+CATALOG-BOOKS
+
+1. 深度神经网络与艺术
+
+2. nanoGPT：从零开始造一个自己的GPT程序
+
+3. 深度强化学习：从入精通

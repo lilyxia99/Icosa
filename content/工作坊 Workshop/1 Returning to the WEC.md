@@ -1,3 +1,8 @@
+---
+title: Returning to the WEC
+---
+
+
 Related Publication: [[1  Map is not the territory - echoes from the 1960s]]
 
 The 1960s in the United States was an era of passion and innovation. In the shadow of the Vietnam War, waves of movements surged one after another, including anti-war, counter-culture, anti-racial discrimination, environmentalism, sexual liberation, and gender equality. After the Summer of Love in 1967, the hippie movement entered a new phase. Singing about love and peace, they left the cities and formed communes in the countryside, living self-sufficiently and communally, seeking personal liberation and spiritual awakening. The year 1969 was considered the "Year of the Commune," with over 500 communes being initiated across the United States that year.
