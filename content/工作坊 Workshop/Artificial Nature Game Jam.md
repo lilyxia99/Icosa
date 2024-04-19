@@ -1,3 +1,5 @@
+Related Publication : [[3   In Spring the Wind Passing By Plays the Harmonica For Me - 25 games from the ARTIFICIAL NATURE Game Jam|In Spring the Wind Passing By Plays the Harmonica For Me - 25 games from the ARTIFICIAL NATURE Game Jam]]
+
 Rules:
 
 Participants, either individually or in teams, will create a game based on the theme "Artificial Nature" within two weeks from March 23 to April 5, 2023.

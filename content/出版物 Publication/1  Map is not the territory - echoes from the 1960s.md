@@ -1,3 +1,8 @@
+---
+title: Map is not the territory - echoes from the 1960s
+---
+
+
 **2021/9** 
 **map posters and a booklet** 
 **CNY 128**
@@ -12,7 +17,7 @@ The third edition of the Icosa Magazine is themed the map is not the territory. 
 
 ![[地图不是疆域 展开图.jpg]]
 
-This set of posters is the product of a 2.5-month online workshop titled "**Return to the Global Overview Site**" initiated by the Icosa Magazine and Inspiration Buyers Club in March 2021. 50 participants engaged in reading, investigating, researching, and discussing the book "Whole Earth Catalog", a tool book spanning half a century. The entire process is documented at http://2021.accessto.tools/. The editing, design, content, production, and even folding and packaging of the posters were jointly completed by the workshop members.
+This set of posters is the product of a 2.5-month online workshop titled "**[[Returning to the WEC|Return to the Global Overview Site]]**" initiated by the Icosa Magazine and Inspiration Buyers Club in March 2021. 50 participants engaged in reading, investigating, researching, and discussing the book "Whole Earth Catalog", a tool book spanning half a century. The entire process is documented at http://2021.accessto.tools/. The editing, design, content, production, and even folding and packaging of the posters were jointly completed by the workshop members.
 
 The posters feature 17 selected theme presentations from the workshop. The content is also a collection of the pictures, links, and tool information shared by the presenters on the workshop website. These text and link information "tofu blocks" form the main body of the posters.
 

@@ -1,3 +1,5 @@
+Related Publication:  [[6 AI Assisted Filmmaking — low cost DIY guideline | AI Assisted Filmmaking - low cost DIY guidline]]
+
 Ling's Fifth Time-Limited Image Creation Game
 
 Theme: The Heart of the Machine
