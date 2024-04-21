@@ -1,6 +1,3 @@
----
-title: Artificial Nature Game Jam
----
 
 Related Publication : [[3   In Spring the Wind Passing By Plays the Harmonica For Me - 25 games from the ARTIFICIAL NATURE Game Jam|In Spring the Wind Passing By Plays the Harmonica For Me - 25 games from the ARTIFICIAL NATURE Game Jam]]
 

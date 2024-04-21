@@ -1,6 +1,3 @@
----
-title: AI Assisted Filmmaking — low cost DIY guideline
----
 
 **2023 book, screw binding CNY 78**
 

@@ -1,6 +1,3 @@
----
-title: Machine's Heart
----
 
 
 Related Publication:  [[6 AI Assisted Filmmaking — low cost DIY guideline | AI Assisted Filmmaking - low cost DIY guidline]]

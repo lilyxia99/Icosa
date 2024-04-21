@@ -1,6 +1,3 @@
----
-title: Oulipo and generative literature
----
 
 
 **2020 book, cards, cover poster CNY 128**

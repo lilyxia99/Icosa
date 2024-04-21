@@ -1,6 +1,3 @@
----
-title: Map is not the territory - echoes from the 1960s
----
 
 
 **2021/9** 

@@ -1,6 +1,3 @@
----
-title: Returning to the WEC
----
 
 
 Related Publication: [[1  Map is not the territory - echoes from the 1960s]]

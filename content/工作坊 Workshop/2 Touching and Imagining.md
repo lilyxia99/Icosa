@@ -1,6 +1,3 @@
----
-title: Touching and Imagining
----
 
 
 Related Publication: [[2  Tactile Communications — from analog to digital| Tactile Communications — from analog to digital]]

@@ -1,6 +1,3 @@
----
-title: In Spring the Wind Passing By Plays the Harmonica For Me - 25 games from the ARTIFICIAL NATURE Game Jam
----
 
 
 **2021/9** 

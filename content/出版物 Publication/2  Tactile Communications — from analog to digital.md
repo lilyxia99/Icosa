@@ -1,6 +1,3 @@
----
-title: Tactile Communications — from analog to digital
----
 
 
 **2022** 
