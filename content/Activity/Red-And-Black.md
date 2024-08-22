@@ -26,7 +26,7 @@ title: 红与黑 - 扑克夜
 ![tony的关键字们](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2F6820e93c-f61b-4fc8-bec4-74ed7fb6eb33%2Ftony%25E5%2585%25B3%25E9%2594%25AE%25E8%25AF%258D.jpeg?table=block&id=f629b5cf-05b8-4cad-af87-94b562cdb672&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
 tony的关键字们
 
-![分享会群|200x200](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2F16d8d6e8-31dd-41fb-ba98-2a911e65eade%2F%25E4%25BA%258C%25E7%25BB%25B4%25E7%25A0%2581.png?table=block&id=7aac7331-9728-4b27-9d87-39667b579773&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
+![分享会群](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2F16d8d6e8-31dd-41fb-ba98-2a911e65eade%2F%25E4%25BA%258C%25E7%25BB%25B4%25E7%25A0%2581.png?table=block&id=7aac7331-9728-4b27-9d87-39667b579773&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
 
 分享会群
 
@@ -79,11 +79,11 @@ _赢的过程，真的是太无趣了。但赢的快活，是无可替代的。_
 
 我没有多想，又去取了 2400。
 
-![第五局： 下注400X2=800元。 继续赌“小” 开出来是大。 总计-1450第六局： 下注800X2=1600元。 继续赌“小” 开出来是大。 总计-3050](https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7TziaItzdlYfdhpT0qKakcQubPFeEpGapwcPCLezj4kTicwn1JhVpXFEA/640?wx_fmt=png&from=appmsg)
+![第五局： 下注400X2=800元。 继续赌“小” 开出来是大。 总计-1450第六局： 下注800X2=1600元。 继续赌“小” 开出来是大。 总计-3050](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2F76310f41-c58a-4ed1-b81e-ff6d9526cf67%2F%25E7%25BA%25A2%25E4%25B8%258E%25E9%25BB%2591%25E5%2586%2585%25E9%25A1%25B53.png?table=block&id=3c92d1c3-3b3c-47a4-9b68-18e40b5d01fe&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1000&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
 
 3000块一瞬就赔光了。一点不夸张的说，这两局操控按钮的手一直在发抖。即便前面已经连输5局，下一局我面对的依旧是一个50%的赢率（事实上是48%左右，因为赌大小把三个1和三个6都拿掉）但到这个份儿上，我没有选择的余地，又去取了3200，这是玩一把的钱。
 
-![第七局： 下注1600X2=3200元。 继续赌“小” 开出来是小。 此时赚150元。](https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7RBlU9yStgNHho20TtRhZkjG7ygIP5WhXU1a0VLZfzoP8UR7s4fnfPg/640?wx_fmt=png&from=appmsg)
+![第七局： 下注1600X2=3200元。 继续赌“小” 开出来是小。 此时赚150元。](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2Fc107974d-f7cc-4a0f-be0a-fed52036b525%2F%25E7%25BA%25A2%25E4%25B8%258E%25E9%25BB%2591%25E5%2586%2585%25E9%25A1%25B54.png?table=block&id=bfc8aa4f-eb90-4e21-9326-145665aec773&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1000&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
 
 掷出来是大的时候，我感动的要哭了，一种轻松的物理感受贯通全身，心中满是感激，我真不知道续输的话我真不知道该怎么办。
 
