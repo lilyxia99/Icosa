@@ -26,7 +26,7 @@ title: 红与黑 - 扑克夜
 ![tony的关键字们](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2F6820e93c-f61b-4fc8-bec4-74ed7fb6eb33%2Ftony%25E5%2585%25B3%25E9%2594%25AE%25E8%25AF%258D.jpeg?table=block&id=f629b5cf-05b8-4cad-af87-94b562cdb672&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
 tony的关键字们
 
-![分享会群|200](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2F16d8d6e8-31dd-41fb-ba98-2a911e65eade%2F%25E4%25BA%258C%25E7%25BB%25B4%25E7%25A0%2581.png?table=block&id=7aac7331-9728-4b27-9d87-39667b579773&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
+![分享会群|200x200](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2F16d8d6e8-31dd-41fb-ba98-2a911e65eade%2F%25E4%25BA%258C%25E7%25BB%25B4%25E7%25A0%2581.png?table=block&id=7aac7331-9728-4b27-9d87-39667b579773&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
 
 分享会群
 
