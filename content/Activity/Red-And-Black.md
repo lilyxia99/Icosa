@@ -23,10 +23,11 @@ title: 红与黑 - 扑克夜
 
 ♣️ 天琦最近在看扑克跑团，想分享一些不同时期的扑克牌玩法和诞生背景。他尝试了解社会风潮如何影响扑克牌玩法机制，挖掘游戏机制在近代历史中的演化路径。当晚可能会提到：资本主义塔罗牌、le truc（法国德扑）、斗地主、the quiet year（扑克跑团）
 
-![tony的关键字们](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2F6820e93c-f61b-4fc8-bec4-74ed7fb6eb33%2Ftony%25E5%2585%25B3%25E9%2594%25AE%25E8%25AF%258D.jpeg?table=block&id=f629b5cf-05b8-4cad-af87-94b562cdb672&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
+<img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2F6820e93c-f61b-4fc8-bec4-74ed7fb6eb33%2Ftony%25E5%2585%25B3%25E9%2594%25AE%25E8%25AF%258D.jpeg?table=block&id=f629b5cf-05b8-4cad-af87-94b562cdb672&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2" alt="tony的关键字们" class="centerImg" width="70%">
 tony的关键字们
+<img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2F16d8d6e8-31dd-41fb-ba98-2a911e65eade%2F%25E4%25BA%258C%25E7%25BB%25B4%25E7%25A0%2581.png?table=block&id=7aac7331-9728-4b27-9d87-39667b579773&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2" alt="分享会群二维码" class="centerImg img200" >
 
-![分享会群](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2F16d8d6e8-31dd-41fb-ba98-2a911e65eade%2F%25E4%25BA%258C%25E7%25BB%25B4%25E7%25A0%2581.png?table=block&id=7aac7331-9728-4b27-9d87-39667b579773&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
+
 
 分享会群
 
@@ -73,7 +74,7 @@ _赢的过程，真的是太无趣了。但赢的快活，是无可替代的。_
 
 ![德扑规则](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2Ff5e4e115-56c8-43f3-8de8-f436e3108690%2F%25E7%2599%25BE%25E5%25AE%25B6%25E4%25B9%2590.png?table=block&id=acb19b86-790d-465d-aedb-1716f9fb52cd&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
 
-![第一局：第三局：熟悉游戏机操作，下注50元测下注100X2=200元。试。继续赌“小”赌“小”开出来是大。这50我没想着赢，是测试费。总汁-250但开出来就是小。总计+50第四局：下注200X2=400元。第二局：继续赌“小”正式开始用我的方法。开出来是大。下注100元。总汁-650赌“小”开出来是大。总计-50](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2Fbe4dca51-f626-4171-9fa7-d02c0285db0a%2F%25E7%25BA%25A2%25E4%25B8%258E%25E9%25BB%2591%25E5%2586%2585%25E9%25A1%25B52.png?table=block&id=fd908be6-a498-4ad4-b9ed-aa7cfb03480f&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
+<img alt="第一局：第三局：熟悉游戏机操作，下注50元测下注100X2=200元。试。继续赌“小”赌“小”开出来是大。这50我没想着赢，是测试费。总汁-250但开出来就是小。总计+50第四局：下注200X2=400元。第二局：继续赌“小”正式开始用我的方法。开出来是大。下注100元。总汁-650赌“小”开出来是大。总计-50" src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2Fbe4dca51-f626-4171-9fa7-d02c0285db0a%2F%25E7%25BA%25A2%25E4%25B8%258E%25E9%25BB%2591%25E5%2586%2585%25E9%25A1%25B52.png?table=block&id=fd908be6-a498-4ad4-b9ed-aa7cfb03480f&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2" class="centerImg" width="80%">
 
 连续 3 局都是大，我要去换钱了。 张久我全程不说话，这时候看着我说:“没关系，你想玩也行， 现在想走也行，我都支持你”，我知道我们都想到了刚看到的 那些连续开大的牌局，但没人讲出来。
 
@@ -82,8 +83,8 @@ _赢的过程，真的是太无趣了。但赢的快活，是无可替代的。_
 ![第五局： 下注400X2=800元。 继续赌“小” 开出来是大。 总计-1450第六局： 下注800X2=1600元。 继续赌“小” 开出来是大。 总计-3050](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2F76310f41-c58a-4ed1-b81e-ff6d9526cf67%2F%25E7%25BA%25A2%25E4%25B8%258E%25E9%25BB%2591%25E5%2586%2585%25E9%25A1%25B53.png?table=block&id=3c92d1c3-3b3c-47a4-9b68-18e40b5d01fe&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1000&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
 
 3000块一瞬就赔光了。一点不夸张的说，这两局操控按钮的手一直在发抖。即便前面已经连输5局，下一局我面对的依旧是一个50%的赢率（事实上是48%左右，因为赌大小把三个1和三个6都拿掉）但到这个份儿上，我没有选择的余地，又去取了3200，这是玩一把的钱。
+<img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2Fc107974d-f7cc-4a0f-be0a-fed52036b525%2F%25E7%25BA%25A2%25E4%25B8%258E%25E9%25BB%2591%25E5%2586%2585%25E9%25A1%25B54.png?table=block&id=bfc8aa4f-eb90-4e21-9326-145665aec773&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1000&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2" alt="第七局： 下注1600X2=3200元。 继续赌“小” 开出来是小。 此时赚150元。" class="centerImg" width="70%">
 
-![第七局： 下注1600X2=3200元。 继续赌“小” 开出来是小。 此时赚150元。](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2Fc107974d-f7cc-4a0f-be0a-fed52036b525%2F%25E7%25BA%25A2%25E4%25B8%258E%25E9%25BB%2591%25E5%2586%2585%25E9%25A1%25B54.png?table=block&id=bfc8aa4f-eb90-4e21-9326-145665aec773&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1000&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
 
 掷出来是大的时候，我感动的要哭了，一种轻松的物理感受贯通全身，心中满是感激，我真不知道续输的话我真不知道该怎么办。
 
@@ -144,7 +145,8 @@ _赢的过程，真的是太无趣了。但赢的快活，是无可替代的。_
 博弈、运气和情欲，奇妙而清晰的聚合在眼底。在“红与黑” 被确定下来为这一期邮包主题后，一个剧本的想法浮现出来， 我想表达一种张力和生活的呼应。
 
 和久我讲了大概，居然是他先写出了一个剧本。连同我的剧情框架，一起放在了这期邮包里面。过去的半个多月，我们都在焦虑的策划 & 拍摄这个片子。直到邮包截止日，我意识到它不可能在 deadline 前被完成了，才不得已搁置了这个事情，转而老老实实开始做大家的编辑工作。 希望到下一期邮包的时候，大家可以看到这个片子。
+<img src="https://file.notion.so/f/f/fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc/498dbd53-debb-437a-99c3-6846653b9fe5/logo.gif?table=block&id=431b655b-4513-4d53-868f-ca9c2fa8c85a&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&expirationTimestamp=1724421600000&signature=Q16PVBuNakfkswqcUMl7z1-MghulaD3vo4TLFuAF5W8" alt="二十面体logo" class="centerImg img200" >
 
-![二十面体logo|200](https://file.notion.so/f/f/fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc/498dbd53-debb-437a-99c3-6846653b9fe5/logo.gif?table=block&id=431b655b-4513-4d53-868f-ca9c2fa8c85a&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&expirationTimestamp=1724421600000&signature=Q16PVBuNakfkswqcUMl7z1-MghulaD3vo4TLFuAF5W8)
+
 
 《二十面体》是一本围绕数学和艺术展开，邀请读者参与的杂志。我们分享的不是作为“结果”的知识，而是由好奇心和创作的渴望推动的探求过程。我们也举办工作坊和活动，邀请更多人和我们一起进入充满意外和不确定的发现之旅。在旅程中，重建一种人与人之间，自身和世界之间的关系。

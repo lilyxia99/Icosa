@@ -1,3 +1,14 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+.centerImg{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  //width: 50%;
+}
+
+.img200{
+    width:200px;
+}
