@@ -86,7 +86,7 @@ _赢的过程，真的是太无趣了。但赢的快活，是无可替代的。_
 <img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2Fc107974d-f7cc-4a0f-be0a-fed52036b525%2F%25E7%25BA%25A2%25E4%25B8%258E%25E9%25BB%2591%25E5%2586%2585%25E9%25A1%25B54.png?table=block&id=bfc8aa4f-eb90-4e21-9326-145665aec773&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1000&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2" alt="第七局： 下注1600X2=3200元。 继续赌“小” 开出来是小。 此时赚150元。" class="centerImg" width="70%">
 
 
-掷出来是大的时候，我感动的要哭了，一种轻松的物理感受贯通全身，心中满是感激，我真不知道续输的话我真不知道该怎么办。
+掷出来是小的时候，我感动的要哭了，一种轻松的物理感受贯通全身，心中满是感激，我真不知道续输的话我真不知道该怎么办。
 
 本来想的是这个策略玩2次，一共赚200元。但此刻的心情太不平静，我决定就此停止。
 
