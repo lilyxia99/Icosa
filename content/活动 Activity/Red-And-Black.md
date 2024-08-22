@@ -1,3 +1,7 @@
+---
+title: 红与黑 - 扑克之夜
+---
+
 ![](https://file.notion.so/f/f/fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc/bf5be453-c5bd-4bdd-8118-ecfd64dc87e0/image.jpeg?table=block&id=8b835a79-40d6-4282-babe-1b411e3a2617&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&expirationTimestamp=1724421600000&signature=4epWF1nDnCaW9WcTpry0Jfcfm2PBYtr2tZu7ui8nSyo&downloadName=image.jpeg)
 
 >[!quote] - 红与黑
@@ -19,10 +23,10 @@
 
 ♣️ 天琦最近在看扑克跑团，想分享一些不同时期的扑克牌玩法和诞生背景。他尝试了解社会风潮如何影响扑克牌玩法机制，挖掘游戏机制在近代历史中的演化路径。当晚可能会提到：资本主义塔罗牌、le truc（法国德扑）、斗地主、the quiet year（扑克跑团）
 
-![tony的关键字们](https://file.notion.so/f/f/fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc/6820e93c-f61b-4fc8-bec4-74ed7fb6eb33/tony关键词.jpeg?table=block&id=f629b5cf-05b8-4cad-af87-94b562cdb672&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&expirationTimestamp=1724421600000&signature=-KSc5n-vC9x4Tt9o_VI5gJK_fAZOKWEaAFgxu4y_z-w&downloadName=tony关键词.jpeg)
+![tony的关键字们](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2F6820e93c-f61b-4fc8-bec4-74ed7fb6eb33%2Ftony%25E5%2585%25B3%25E9%2594%25AE%25E8%25AF%258D.jpeg?table=block&id=f629b5cf-05b8-4cad-af87-94b562cdb672&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
 tony的关键字们
 
-![分享会群|200](https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK79x4oEtW1JyMOqJJZwrgSKkxdlPwao5IxupO46jicltsiaFwbsOh9OkEg/640?wx_fmt=png&from=appmsg)
+![分享会群|200](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2F16d8d6e8-31dd-41fb-ba98-2a911e65eade%2F%25E4%25BA%258C%25E7%25BB%25B4%25E7%25A0%2581.png?table=block&id=7aac7331-9728-4b27-9d87-39667b579773&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
 
 分享会群
 
@@ -43,7 +47,7 @@ _赢的过程，真的是太无趣了。但赢的快活，是无可替代的。_
 
 如果不赌的话，实在对不起澳门，于是想出来一个自觉稳赚不赔的玩法，大概是这样：
 
-![https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7OsEuXSeKPDs3CiaeMTmJt7fibdlj0ZQoNGmtmtrs6dl7aTBhFtjkEibfA/640?wx_fmt=png&from=appmsg](https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7OsEuXSeKPDs3CiaeMTmJt7fibdlj0ZQoNGmtmtrs6dl7aTBhFtjkEibfA/640?wx_fmt=png&from=appmsg)
+![目标：赚200块，一旦赚到就离场 只玩赌大小 只赌大，或者只赌小，重复下注（这条其实无所谓）起始的赌注是200元，如果输了就翻倍（400）如果再输就再翻倍（800）•••只要贏一次就离场](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2Feb2395a3-f07e-45c5-9af5-2a4f57e17bb1%2F%25E7%25BA%25A2%25E4%25B8%258E%25E9%25BB%2591%25E5%2586%2585%25E9%25A1%25B5.png?table=block&id=3ef4f6eb-d116-44b8-9b0a-712eebfd6a20&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
 
 经过我自己最朴素的计算，连输5把的概率是1/2的五次方，也就是1/32，也就是说，我有31/32的概率在5局之内，赢至少1次，无论哪一次赢，我的总获利都将是200。
 
@@ -67,19 +71,19 @@ _赢的过程，真的是太无趣了。但赢的快活，是无可替代的。_
 
 我选择了和“骰宝”游戏机玩，一方面是真人荷官桌的起步赌金很大，另一方面我不想被其他玩家影响我的决策。它会自动震动三颗骰子，在这张表中下注，如果开出来中了就按照赔率给现金券。我兑换了800元港币，想着3局之内赢就可以。
 
-![https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7d2FSxGic13XTTxjbzjIvwVnx7gNU8VCvic9iaq6WLaONrR6MjthrV60dA/640?wx_fmt=png&from=appmsg](https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7d2FSxGic13XTTxjbzjIvwVnx7gNU8VCvic9iaq6WLaONrR6MjthrV60dA/640?wx_fmt=png&from=appmsg)
+![德扑规则](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2Ff5e4e115-56c8-43f3-8de8-f436e3108690%2F%25E7%2599%25BE%25E5%25AE%25B6%25E4%25B9%2590.png?table=block&id=acb19b86-790d-465d-aedb-1716f9fb52cd&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
 
-![https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7TgtYohgDrhvTujBh43iaQn0gVEsHe7z7kXfz3zcgggF4TDNFYJrxdYQ/640?wx_fmt=png&from=appmsg](https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7TgtYohgDrhvTujBh43iaQn0gVEsHe7z7kXfz3zcgggF4TDNFYJrxdYQ/640?wx_fmt=png&from=appmsg)
+![第一局：第三局：熟悉游戏机操作，下注50元测下注100X2=200元。试。继续赌“小”赌“小”开出来是大。这50我没想着赢，是测试费。总汁-250但开出来就是小。总计+50第四局：下注200X2=400元。第二局：继续赌“小”正式开始用我的方法。开出来是大。下注100元。总汁-650赌“小”开出来是大。总计-50](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2Fbe4dca51-f626-4171-9fa7-d02c0285db0a%2F%25E7%25BA%25A2%25E4%25B8%258E%25E9%25BB%2591%25E5%2586%2585%25E9%25A1%25B52.png?table=block&id=fd908be6-a498-4ad4-b9ed-aa7cfb03480f&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
 
 连续 3 局都是大，我要去换钱了。 张久我全程不说话，这时候看着我说:“没关系，你想玩也行， 现在想走也行，我都支持你”，我知道我们都想到了刚看到的 那些连续开大的牌局，但没人讲出来。
 
 我没有多想，又去取了 2400。
 
-![https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7TziaItzdlYfdhpT0qKakcQubPFeEpGapwcPCLezj4kTicwn1JhVpXFEA/640?wx_fmt=png&from=appmsg](https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7TziaItzdlYfdhpT0qKakcQubPFeEpGapwcPCLezj4kTicwn1JhVpXFEA/640?wx_fmt=png&from=appmsg)
+![第五局： 下注400X2=800元。 继续赌“小” 开出来是大。 总计-1450第六局： 下注800X2=1600元。 继续赌“小” 开出来是大。 总计-3050](https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7TziaItzdlYfdhpT0qKakcQubPFeEpGapwcPCLezj4kTicwn1JhVpXFEA/640?wx_fmt=png&from=appmsg)
 
 3000块一瞬就赔光了。一点不夸张的说，这两局操控按钮的手一直在发抖。即便前面已经连输5局，下一局我面对的依旧是一个50%的赢率（事实上是48%左右，因为赌大小把三个1和三个6都拿掉）但到这个份儿上，我没有选择的余地，又去取了3200，这是玩一把的钱。
 
-![https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7RBlU9yStgNHho20TtRhZkjG7ygIP5WhXU1a0VLZfzoP8UR7s4fnfPg/640?wx_fmt=png&from=appmsg](https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7RBlU9yStgNHho20TtRhZkjG7ygIP5WhXU1a0VLZfzoP8UR7s4fnfPg/640?wx_fmt=png&from=appmsg)
+![第七局： 下注1600X2=3200元。 继续赌“小” 开出来是小。 此时赚150元。](https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7RBlU9yStgNHho20TtRhZkjG7ygIP5WhXU1a0VLZfzoP8UR7s4fnfPg/640?wx_fmt=png&from=appmsg)
 
 掷出来是大的时候，我感动的要哭了，一种轻松的物理感受贯通全身，心中满是感激，我真不知道续输的话我真不知道该怎么办。
 
@@ -93,13 +97,13 @@ _赢的过程，真的是太无趣了。但赢的快活，是无可替代的。_
 
 离开澳门后，我和朋友们研究测试了一些赌博策略，虽然没有得出什么结论，但挺好玩的。我才知道我的策略叫做“倍投法”或者“马丁格尔策略(Martingale Strategy)”，源于赌博但被广泛应用于金融和投资领域。
 
-![https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK74gicPMpxUia5t4cEyQmR276JZ0xZgfPnxHM25DzqBZFNclYENuiariaQfA/640?wx_fmt=png&from=appmsg](https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK74gicPMpxUia5t4cEyQmR276JZ0xZgfPnxHM25DzqBZFNclYENuiariaQfA/640?wx_fmt=png&from=appmsg)
+![网上赌场](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2Ff4525635-4c9f-4058-be18-6e37d535cd80%2F%25E7%25BA%25A2%25E4%25B8%258E%25E9%25BB%2591%25E5%2586%2585%25E9%25A1%25B55.png?table=block&id=a4f858e6-2b88-460b-896a-30acf0c88cb6&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
 
 机缘巧合我在清迈认识了一个在赌场工作的澳门人雄哥。雄哥说这类通过下注金额控制去平衡运气成分，以获取最大胜算的赌博方法叫做“赌缆”，运用筹码就叫做“缆”。我设计的方法是最朴素的，叫做“直缆”。复杂点的有:
 
-![https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7ITNcvIxrD0FUXNt1jZH4Rm5OxyfdDnmic6WFGj0R542LO9noeQHH4vA/640?wx_fmt=png&from=appmsg](https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7ITNcvIxrD0FUXNt1jZH4Rm5OxyfdDnmic6WFGj0R542LO9noeQHH4vA/640?wx_fmt=png&from=appmsg)
+![-直缆的变奏 类似直缆，但是每次输掉后都加注下注，如100、300、700、1500、3100、6300、12700•••••这样最后赌金加大，赢得也更多。-过关缆 和直缆相反，这个投注策略是在赢钱时加大注码，在输钱时立即把 注码减至最初水平，每次加大注码时应以之前那一局注码的50% 为限。例如第一局赢了200，第二局便下注300，又赢了，便加至 450，如此类推，以至少过三关或四关为目标，赢了三或四局便把注码缩为最先的200，如中途输了一局，即把注码减至$200。-楼梯缆 又上又落，加减幅度以一个单位为主。假设一个单位是100，第一 局下注100输了，第二局便下注200，又输，第三局便下注300， 若这局赢了，第四局缩回至200（即减了一个单位100），如此局再赢，第五局便减注至100（即又缩了一个单位），如此类推。 这种缆的好处是只要你运气不太差，可以赢到四成的局数，你便已 有利润了。当你输赢各一半时，你会发觉已重回至一开始的注数（即 100），这代表你完成了一条完整的（缆），这时相信你己有不俗的利润。](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2F7377121a-0b39-4ec5-aacf-f781c7562354%2F%25E7%25BA%25A2%25E4%25B8%258E%25E9%25BB%2591%25E5%2586%2585%25E9%25A1%25B56.png?table=block&id=41bfa50d-129e-48c2-bf0f-99c258fb6d12&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=1420&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
 
-![《红与黑》内页关于渐退缆的介绍](https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7D5IWyic1Zo2H5AKukSXAyibtJQmiaMFa1NxYdwy0D7QiaA27Scl1fMq1EA/640?wx_fmt=png&from=appmsg)
+![-渐退缆 一般理解是输了第一鋪就加倍买第二铺，依此类推，始终会有一铺赢。但问题又是赌台都是有上限的，所以此法也未必每次都行得通。 刚好由于此法行不通，相反来讲，用其相对之法即可稳保胜利。方 法是第一铺买1000，如赢了第二铺买500，如赢了第三铺买$250， 如赢了，即停，然后从头又开始过。如第一铺买1000，如输了第 二铺也只买1000，不加注，以免输多难追。依此方向，理论上， 输是极有限的。一但赢了，亦不会变反赢为输，进度可能会慢一点， 好处就是不会乱，以及赢输的限度不会太离谱。这其实是注码运用 策略的一种，输了绝不加注，赢了则扣起部份，锁死一部份利润，以免倒输回去，累积小利润就可成大胜。](https://file.notion.so/f/f/fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc/55a11541-1b20-4b8d-b98a-611aa31358db/红与黑内页7.png?table=block&id=fe0f72ac-c319-415b-a203-a2797786cfd1&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&expirationTimestamp=1724421600000&signature=bt8kE8yIz3i138xtXnY5dqUlgWNCwlrIFUKxJkwI-fI&downloadName=红与黑内页7.png)
 
 雄哥还讲了很多很有意思的赌场的事情，比方说最新的出千法: 有一个女人玩百家乐连续赢钱，他们看了一个月的监控视频都没有搞明白她是怎么操作的，最后通过零星线索和仔细看她的 座位姿态，终于分析出来她 10 个指头上沾了不同味道的香水，她在不同的牌面上留下味道，每隔两天赌场会循环一次扑克，她通过摸清机制和味道来预测输赢下注;还有一个男人有超常听力，骰子落地时，因为每一面孔位不同，回响会有差异，他训练自己的耳朵分辨这种差异下注。
 
@@ -117,7 +121,7 @@ _赢的过程，真的是太无趣了。但赢的快活，是无可替代的。_
 
 我和很多人解释过我为什么对德扑如此上瘾：
 
-![《红与黑》内页](https://mmbiz.qpic.cn/sz_mmbiz_png/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK73gicReFicaerA2adp7kzSuAwv1aP91WseTKnkcwOoYyzicqxFo9KNwZ8w/640?wx_fmt=png&from=appmsg)
+![-和所有好游戏一样，德扑上手太简单了，但玩好很难。好的德扑 玩家的能力非常综合，计算和反应，对他人心理的洞察，表演能力， 稳定的心态⋯… -几乎是一开始上手这个游戏我就知道我很擅长，特别是对他人行 为逻辑的理解力 -作为一个对物质谨慎保守的人，如此直接去玩钱，让我对钱有了 新认识 -很少有这样简单的机制，让我体验肾上腺素直接飙升 -玩家五花八门 -它让我很有想象力：不管是职业化道路，或是通过这个游戏认识 其他各种人 -在玩德扑的过程中，伴随着很多奇妙的事情。德扑像是一种隐喻， 它的逻辑和因果持续影响我。](https://file.notion.so/f/f/fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc/f45fddaa-1959-4ae5-bc8b-3e8e94ff1f23/红与黑内页8.png?table=block&id=21c3d9c9-a654-4b27-9f3f-9ce6c3223d3a&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&expirationTimestamp=1724421600000&signature=97YAcPbd7xH0QXYd431AspsSqND08K2fUB4AeGw57P0&downloadName=红与黑内页8.png)
 
 12月中的泰国清迈德扑局对我影响非常大。那时正值一个清迈web3行业聚会，临时组的局。当晚人很多，得轮流玩，很多人都是币圈玩家，有钱大佬，玩的很凶，我全程都在心跳手抖。从来没有见过像这样疯狂买入的玩家，钱对于我们来说应该根本不是一回事儿。因为筹码相对来说比较少，一开始有被压制着玩的痛苦，但慢慢地见识了大起大落，我也调整好心态，最后还是赢了钱。
 
@@ -125,7 +129,7 @@ _赢的过程，真的是太无趣了。但赢的快活，是无可替代的。_
 
 后面回广州后和朋友一起去打锦标赛，才知道德扑其实如此的普及。基本各大城市，每天都会有 3-4 场锦标赛发生在各种不同的俱乐部里面。锦标赛和我们之前的现金局玩法很不同，很多职业玩家也是只玩锦标赛，不去碰风险过高的现金局。
 
-![闪光雷智力竞技现场](https://mmbiz.qpic.cn/sz_mmbiz_jpg/5IRplF51Hpf85pOHmbNvoWSLBAW2XfK7GLz9zs5OmWibKAGb80t3C4LMJYibFSpTcvE2ByUPQK47pSKib7LLzaPVA/640?wx_fmt=jpeg&from=appmsg)
+![闪光雷智力竞技现场](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2F9bde8a0c-2112-479a-b4dd-68cca07a75ef%2F%25E7%25BA%25A2%25E4%25B8%258E%25E9%25BB%2591%25E5%2586%2585%25E9%25A1%25B59.png?table=block&id=25c331d1-1a8c-4e8c-a9e3-c74c4f5eb0e8&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=2000&userId=07887f0e-215b-4511-934a-b18d03b112b4&cache=v2)
 
 我越来越强烈地感受到运气的重要性。手气好的时候，一晚上都是好牌，运气不好时什么都没有。技术主要是用来止损的， 挣钱主要靠运气。
 
@@ -141,6 +145,6 @@ _赢的过程，真的是太无趣了。但赢的快活，是无可替代的。_
 
 和久我讲了大概，居然是他先写出了一个剧本。连同我的剧情框架，一起放在了这期邮包里面。过去的半个多月，我们都在焦虑的策划 & 拍摄这个片子。直到邮包截止日，我意识到它不可能在 deadline 前被完成了，才不得已搁置了这个事情，转而老老实实开始做大家的编辑工作。 希望到下一期邮包的时候，大家可以看到这个片子。
 
-![二十面体logo|200](https://mmbiz.qpic.cn/sz_mmbiz_gif/5IRplF51HpdcuzsmdMIM3Z0jnDYTANyl1QNM6dQnwNEDoicf5ShYbsqIicicfYMvu2jnjAHI2QN9m39UxfKibfqOmQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp)
+![二十面体logo|200](https://file.notion.so/f/f/fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc/498dbd53-debb-437a-99c3-6846653b9fe5/logo.gif?table=block&id=431b655b-4513-4d53-868f-ca9c2fa8c85a&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&expirationTimestamp=1724421600000&signature=Q16PVBuNakfkswqcUMl7z1-MghulaD3vo4TLFuAF5W8)
 
 《二十面体》是一本围绕数学和艺术展开，邀请读者参与的杂志。我们分享的不是作为“结果”的知识，而是由好奇心和创作的渴望推动的探求过程。我们也举办工作坊和活动，邀请更多人和我们一起进入充满意外和不确定的发现之旅。在旅程中，重建一种人与人之间，自身和世界之间的关系。
