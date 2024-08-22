@@ -22,7 +22,7 @@ We want to promote an alternative way of knowledge generation, and a research an
 
 🌟[[5 Oulipo and generative literature]]
 
-## Workshop 
+## 工作坊 Workshop 
 
 🌲[[1 Returning to the WEC]]
 
@@ -31,3 +31,7 @@ We want to promote an alternative way of knowledge generation, and a research an
 🌲[[3 Artificial Nature Game Jam]]
 
 🌲[[4 Machine's Heart]]
+
+## 活动 Activity
+
+🍊 [[Red-And-Black|红与黑，扑克夜 Red and Black - Poker Night]]

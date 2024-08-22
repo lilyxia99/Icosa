@@ -1,5 +1,5 @@
 ---
-title: 红与黑 - 扑克之夜
+title: 红与黑 - 扑克夜
 ---
 
 ![](https://file.notion.so/f/f/fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc/bf5be453-c5bd-4bdd-8118-ecfd64dc87e0/image.jpeg?table=block&id=8b835a79-40d6-4282-babe-1b411e3a2617&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&expirationTimestamp=1724421600000&signature=4epWF1nDnCaW9WcTpry0Jfcfm2PBYtr2tZu7ui8nSyo&downloadName=image.jpeg)
