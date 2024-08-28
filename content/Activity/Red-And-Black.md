@@ -157,7 +157,7 @@ _赢的过程，真的是太无趣了。但赢的快活，是无可替代的。_
 zoom 链接：[https://vcu.zoom.us/j/84169821337](https://vcu.zoom.us/j/84169821337)
 会议号：841 6982 1337
 
-<img src="https://file.notion.so/f/f/fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc/498dbd53-debb-437a-99c3-6846653b9fe5/logo.gif?table=block&id=431b655b-4513-4d53-868f-ca9c2fa8c85a&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&expirationTimestamp=1724421600000&signature=Q16PVBuNakfkswqcUMl7z1-MghulaD3vo4TLFuAF5W8" alt="二十面体logo" class="centerImg img200" >
+<img src="https://file.notion.so/f/f/fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc/1f9387a0-6a3a-4180-8b76-e40cde079f0e/Pasted_image_20240326174437.png?table=block&id=3609835e-56b6-4b61-beb6-4ba85b03509c&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&expirationTimestamp=1724940000000&signature=n5Za9dyh1vmEBa0y1Th4AeA9Wcxk8rziHieWILYCvxc&downloadName=Pasted+image+20240326174437.png" alt="二十面体logo" class="centerImg img200" >
 
 
 
