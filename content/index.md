@@ -2,7 +2,7 @@
 title: The Start of Your Journey
 ---
 <br><br>
-<img src="https://file.notion.so/f/f/fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc/1f9387a0-6a3a-4180-8b76-e40cde079f0e/Pasted_image_20240326174437.png?table=block&id=3609835e-56b6-4b61-beb6-4ba85b03509c&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&expirationTimestamp=1724940000000&signature=n5Za9dyh1vmEBa0y1Th4AeA9Wcxk8rziHieWILYCvxc&downloadName=Pasted+image+20240326174437.png" alt="二十面体logo" width="300px" class="centerImg">
+<img src="https://icosa-magazine.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb267f4b-7da1-4fc8-aa87-85ffd1f9aafc%2F1f9387a0-6a3a-4180-8b76-e40cde079f0e%2FPasted_image_20240326174437.png?table=block&id=3609835e-56b6-4b61-beb6-4ba85b03509c&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&width=990&userId=&cache=v2" alt="二十面体logo" width="300px" class="centerImg">
 
 <br><br>
 二十面体是一个独立研究&独立出版小组，聚集了一批关注数学和艺术的艺术家和研究者。我们也举办工作坊和活动，邀请更多人和我们一起进入充满意外和不确定的发现之旅。在旅程中，重建一种人与人之间，自身和世界之间的关系。
