@@ -2,7 +2,7 @@
 title: 红与黑 - 扑克夜
 ---
 
-![](https://file.notion.so/f/f/fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc/bf5be453-c5bd-4bdd-8118-ecfd64dc87e0/image.jpeg?table=block&id=8b835a79-40d6-4282-babe-1b411e3a2617&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&expirationTimestamp=1724940000000&signature=vca1NAU-Sf6dTXpdRcOH7NigQPEjMZFCgNE4pbc2hk8&downloadName=image.jpeg)
+![](https://file.notion.so/f/f/fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc/bf5be453-c5bd-4bdd-8118-ecfd64dc87e0/image.jpeg?table=block&id=8b835a79-40d6-4282-babe-1b411e3a2617&spaceId=fb267f4b-7da1-4fc8-aa87-85ffd1f9aafc&expirationTimestamp=1725285600000&signature=Fqb0a8CdY8S4ZiO1hWFLyQP1VbDnZrYxsqc8zBH9RC0&downloadName=image.jpeg)
 
 >[!quote] - 红与黑
 >17世纪法国的扑克赌博游戏 [Rouge et Noir（红与黑）](https://en.wikipedia.org/wiki/Trente_et_Quarante)的桌面布局。它至今在欧洲的赌场仍然流行。这个游戏传入德国后，名称变成了 Dör den Hund，意思是“走向狗”，大概是因为很多玩家通过玩这个游戏成了狗。
